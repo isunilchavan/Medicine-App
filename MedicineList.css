@@ -1,0 +1,20 @@
+
+.med-list {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .med-list label {
+    font-weight: bold;
+  }
+  
+  .med-list span {
+    margin-left: 10px;
+  }
+  

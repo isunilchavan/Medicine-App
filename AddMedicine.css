@@ -1,0 +1,29 @@
+
+.add-medicine {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    
+  }
+  
+  .add-medicine input {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  .add-medicine button {
+    background-color: #0074cc;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 10px;
+  }
+  
+  .add-medicine button:hover {
+    background-color: #005baa;
+  }
+  
